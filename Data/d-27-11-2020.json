@@ -1,0 +1,1 @@
+{"totalOrders": 1, "totalBilling": 84.0, "totalCostPrice": 30, "totalProfit": 50, "tax": 4.0, "orders": [{"phoneNumber": "099999999", "noOfItems": 1, "orderBillBefTax": 80, "orderBill": 84.0, "itemDetails": [[1004, 1, 80]]}]}
