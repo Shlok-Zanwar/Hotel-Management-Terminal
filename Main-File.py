@@ -9,6 +9,8 @@ if password == adminPass:
     login = Admin()
     login.isTodayNew()
 
+    print("\nView available items (menu) :- http://localhost:63342/Hotel-Management-Terminal/templates/table.html?_ijt=46sb00fg18m01dbne0nl4j158g")
+
     print(TextColor.GREEN + TextColor.BOLD + TextColor.UNDERLINE + "ADMIN LOGGED IN !!" + TextColor.ENDC)
     while True:
         print("\n1) Check details for a date")
