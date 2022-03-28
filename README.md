@@ -1,22 +1,21 @@
-# Hotel-managment-Terminal-
+# Hotel-management-Terminal
 
-A basic and well-designed interface for a restraunt with a self created database managment system. <br />
-Checkout the bloug on this :- https://shlok-zanwar.github.io/blogs/hotel-managment <br />
+A basic and well-designed interface for restraunt management with a self created file-handling database managment system. <br />
+Checkout the blog to know better :- https://shlok-zanwar.github.io/blogs/hotel-managment <br />
 
-### Key features
-  * Well designed interface (Tabulated)
+### Key features :-
+  * Well-designed interface (Tabulated)
   * Admin class features include checking the data for a particular date, modifing / updating menu, placing orders etc.
   * Employee can only take orders.
-  * self ccreted database system using json and intelligence (A json file based database which works very well in this particular project).
-  * A self updating html file for reference menu for the employee (The code will automatically change the html table contens when the availiblity is changed (using open, read,    write file) 
+  * Self creted database system using json and intelligence (A json file based database which works very well in this particular project).
+  * A self updating html file for reference menu for the employee (The code will automatically change the html table contens when the availiblity is changed (using open, read, write file). 
 
 
-### Object oriented programming related :
+### Object-oriented programming related :
   * Two main classes Admin class and employee class where admin class extends the features of employee.
-  * overloading in some function
-  * error handling
+  * Function overloading.
 
-
- ### Languages
-  * Main Code :- Python
-  * A bit of html and json handling.
+ ### Technologies used :-
+  * Python
+  * Html
+  * File handling (json)
